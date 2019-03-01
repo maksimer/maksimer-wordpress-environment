@@ -3,13 +3,13 @@
  * Plugin Name: Maksimer WordPress Environment
  * Plugin URI: http://www.maksimer.no
  * Description: Maksimer WordPress default settings.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Maksimer
  * Author URI: http://www.maksimer.no
  */
 if ( defined( 'MAKSIMER_WORDPRESS_ENVIRONMENT' ) ) return;
 
-define( 'MAKSIMER_WORDPRESS_ENVIRONMENT', '1.0' );
+define( 'MAKSIMER_WORDPRESS_ENVIRONMENT', '1.0.1' );
 
 if ( !defined('ABSPATH') ) die( 'You do not have permissions to access this file.' );
 
