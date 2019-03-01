@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Maksimer",
+            "email": "post@maksimer.no"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "name": "maksimer/wordpress-environment",
+    "description": "Maksimer WordPress Environment"
+}
